@@ -63,7 +63,7 @@ substitutions:
   _DOCKERFILE_NAME: Dockerfile
   _K8S_APP_NAME: epam-gmp2022q2-react-api
   _GKE_LOCATION: us-central1-a
-  _IMAGE_NAME: gcr.io/rss-teams-348909/github.com/andrei-shelenhouski/epam-gmp2022q2-react-api
+  _IMAGE_NAME: gcr.io/rss-teams-348909/github_andrei-shelenhouski_epam-gmp2022q2-react-api
   _GKE_CLUSTER: epam-gmp2022q2-react-api-cluster
 tags:
   - gcp-cloud-build-deploy
